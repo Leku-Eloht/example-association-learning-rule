@@ -11,7 +11,7 @@ to test your implementation.
 
 This repo is to test if you can do verified commits and pull requests. You can learn the topics in the following links:
 
-- https://withblue.ink/2020/05/17/how-and-why-to-sign-git-commits.html
+- https://withblue.ink/2020/05/17/how-and-why-to-sign-git-commits.html.
 - https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification
 
 Next is a small competition.
